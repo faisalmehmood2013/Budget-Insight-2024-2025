@@ -1,0 +1,12 @@
+langchain
+openai
+PyPDF2
+cassio
+langchain-community
+python-dotenv
+ipykernel 
+pypdf
+streamlit
+sentence-transformers
+langchain-huggingface
+langchain-openai
